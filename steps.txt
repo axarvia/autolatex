@@ -1,0 +1,26 @@
+FORM TO GENERATE A TEX DOC - FIVE STEPS
+Step 1:
+SELECT THE FIRST LINE OF CODE >>> \documentclass[options]{class}
+      Select the class
+      Select the Main options
+      Select the Misc options
+
+Step 2:
+SELECT THE SECOND LINE OF CODE >>> \usepackage[options]{package}
+      Select the main packages (box)
+      Setting the packages options
+      Select the misc packages (box)
+      Setting the packages options
+Step 3:
+SELECT THE TITLEPAGE TEMPLATE OR BUILD ONE FROM SCRATCH
+      Select the template or select the elements of the titlepage
+      Replace the template elements
+      Make the title page
+Step 4:
+SETTING THE STYLE OF THE DOCUMENT
+      Setting up the margins
+      Setting up the
+Step 5 (optional):
+  Generating the chapter page
+  Make the acknowlegment section
+  Make the table of cotents
