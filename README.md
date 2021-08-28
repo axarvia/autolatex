@@ -1,1 +1,1 @@
-# automatedlatex
+# autolatex
